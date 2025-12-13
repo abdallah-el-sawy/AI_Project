@@ -70,12 +70,11 @@ The objective is to reach a predefined goal configuration by sliding tiles into 
 │   ├── ids.py
 │   ├── astar.py
 │   ├── hill_climbing.py
-│   └── puzzle_utils.py
+│
 │
 │── tests/
 │── README.md
-│── requirements.txt
-│── run.py
+│── Report.pdf
 ```
 ---
 
