@@ -49,3 +49,43 @@ The objective is to reach a predefined goal configuration by sliding tiles into 
 * Fast but can get stuck in local optima.
 
 ---
+
+## 📊 Expected Results & Observations
+
+* **A*** with Manhattan Distance should significantly outperform other algorithms.
+* **BFS/UCS** will find optimal solutions but may use much more memory.
+* **DFS** and **Hill Climbing** may fail or get stuck depending on the puzzle state.
+* **IDS** offers a good balance but may still take longer due to repeated depth increases.
+
+---
+
+## 📁 Project Structure
+
+```
+/project-root
+|__ README.md
+│── src/
+│   ├── bfs.py
+│   ├── dfs.py
+│   ├── ucs.py
+│   ├── ids.py
+│   ├── astar.py
+│   ├── hill_climbing.py
+│
+│
+│── tests/
+│   |── README.md
+│   |── Report.pdf
+```
+---
+
+## 👥 Team Members
+
+* Abdallah Elsawy Esmail Mohamed Elbedewy
+* Ahmed Mostafa Amer Elkholy
+* Abdelrahman Mohamed Medhat Elsayed Abdelfattah
+* Mohamed Hamdy Ahmed Elsayed Selim
+* Abdallah Khaled Hassan Abdelsalam Elmelegy
+
+---
+
