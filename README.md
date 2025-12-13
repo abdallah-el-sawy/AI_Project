@@ -73,8 +73,8 @@ The objective is to reach a predefined goal configuration by sliding tiles into 
 │
 │
 │── tests/
-│── README.md
-│── Report.pdf
+│   |── README.md
+│   |── Report.pdf
 ```
 ---
 
