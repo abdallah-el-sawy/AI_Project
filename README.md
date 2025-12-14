@@ -1,5 +1,5 @@
 
-# 8-Puzzle Solver 🚀
+# 8-Puzzle Problem
 
 ## 📌 Overview
 
