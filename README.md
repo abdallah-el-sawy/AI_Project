@@ -38,7 +38,7 @@ The objective is to reach a predefined goal configuration by sliding tiles into 
 * Combines memory efficiency of DFS with the optimality of BFS.
 * Can be slower due to repeated deepening.
 
-### **5. A* Search (with Manhattan Distance Heuristic)**
+### **5. A*  Search (with Manhattan Distance Heuristic)**
 
 * Uses heuristic guidance for fast and optimal solutions.
 * Expected to be the top-performing algorithm in this project.
