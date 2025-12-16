@@ -46,7 +46,7 @@ The objective is to reach a predefined goal configuration by sliding tiles into 
 ### **6. Hill Climbing**
 
 * Heuristic-based local search.
-* Fast but can get stuck in local optima.
+* Fast but can get stuck in local optimal.
 
 ---
 
