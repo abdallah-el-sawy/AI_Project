@@ -76,6 +76,7 @@ The objective is to reach a predefined goal configuration by sliding tiles into 
 │   |── README.md
 │   |── AI_Report.pdf
 |   |── AI_Proposal.pdf
+|   |__ AI_Presentation
 ```
 ---
 
